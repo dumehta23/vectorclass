@@ -1,9 +1,8 @@
-# Project 1 - Vectors 
-
-My submission for CPSC 131, Section 06, Project 1
+# Project  - Vector Class
+ 
 
 # My Information
 
 * name: Drashti Mehta
-* CWID: 889212452
-* Email: dumehta@csu.fullerton.edu
+ 
+* email: dumehta@csu.fullerton.edu
